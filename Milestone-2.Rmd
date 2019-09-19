@@ -1,0 +1,30 @@
+---
+title: "Milestone 2"
+author: "Mitsue Guerrero"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Project 1: 
+[Off the Wall: Artwork Activity at the Harvard Art Museum](https://hhardenbergh.shinyapps.io/Harvard_art_museum_objects/) by Hannah Elizabeth Hardenbergh developed during Fall 2018 </p>
+
+The project shows data from the Harvard Art Museums API from the Modern and Contemporary Art galleries. I liked the project because it looks for a correlation between the views an art-piece has had (bothn online and in-gallery) and the nationality of the artists.
+
+This data can help the museum:
+To understand what new artists and nationalities they should bring in to enhance diversity.
+Understand which art-pieces have been the most viewed by visitors.
+
+Though the topic is interesting and the website lets you interact with the date. I believe it could improve in the way the site tells the story about this data.
+The way of displaying the ifnormation is not the best Since the graph is not interactive, so one can de-activate a continent, and they end up mixing all together.
+It could be better to be able to visualize both graphs of in-galler exhibitions and online visits at the same time instead of choosing for one or the other.
+I believe the 387 entries could have generated much more interesting visualizations and thu conclusions. 
+
+I plan to take these observations into consideration when developing my final project, making sure the story-telling is coherent and that the data visualization can have practical applications, like in this project where it helps inform better-decission making.
+
+
+
+# Project 2:
